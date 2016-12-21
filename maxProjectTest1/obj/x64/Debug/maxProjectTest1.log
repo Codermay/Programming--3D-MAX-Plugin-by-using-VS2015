@@ -1,0 +1,9 @@
+﻿     正在创建库 D:\VS_project\maxProjectTest1\maxProjectTest1\\obj\x64\Debug\\maxProjectTest1.lib 和对象 D:\VS_project\maxProjectTest1\maxProjectTest1\\obj\x64\Debug\\maxProjectTest1.exp
+  maxProjectTest1.vcxproj -> D:\program files\Autodesk_3ds_Max\3ds Max 2015\plugins\maxProjectTest1.dle
+  ==== RunMUIRCT: Start ====
+  RunMUIRCT: WARNING - Could not find version info in file: D:\program files\Autodesk_3ds_Max\3ds Max 2015\plugins\maxProjectTest1.dle
+  
+  There is no version resource in the file 
+  Language neutral file (D:\program files\Autodesk_3ds_Max\3ds Max 2015\plugins\en-US\maxProjectTest1.dle.ln) successfully created
+  MUI file (D:\program files\Autodesk_3ds_Max\3ds Max 2015\plugins\en-US\maxProjectTest1.dle.mui) successfully created 
+  ==== RunMUIRCT: Successs ====
